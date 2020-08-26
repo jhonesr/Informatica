@@ -1,1 +1,1 @@
-#Repositorio para el almacenamiento de documentos de informática
+Repositorio para el almacenamiento de documentos de informática
